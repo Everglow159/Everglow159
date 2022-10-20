@@ -5,4 +5,4 @@
 - 🔭 HDU Graduate in Mathmatic major
 - 🌱 currently study in XDU 
 - 👯 currently learning GO & JAVA 
-- 📫 visit more about my project in Gitee:
+- 📫 visit more about my project in Gitee: https://gitee.com/lou-jiaqing
