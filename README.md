@@ -5,5 +5,6 @@
 - 🔭 HDU Graduate in Mathmatic major
 - 🌱 currently study in XDU 
 - 👯 currently learning GO & JAVA 
+- ⚡ Interested in Cloud Computing right now
 - 📫 visit more about my project in Gitee: 
 - https://gitee.com/lou-jiaqing
